@@ -1,32 +1,25 @@
-<div align="center">
-  <img height="210" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGNmMzcweGE2NmphNmk2Yms1bGcybTdmcHNjcm82NXJ3OHNyMWxldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cXblnKXr2BQOaYnTni/giphy.gif"  />
-</div>
+![banner](https://github.com/user-attachments/assets/266d80f1-f51c-47b5-87a1-1a58ee39b882)
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/dominik-loza/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Dominik</h1>
 
 ###
+
+
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=dominikloza.dominikloza&left_color=coral&right_color=dodgerblue"  />
 </div>
 
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Dominik from Poland.<br><br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Next.js<br>- ⚡ In my free time I play piano and sing.</p>
+🔭 I am currently working as a **Frontend developer** at [Modvise](https://modvise.com/about-us/) <br>
+📚 I'm currently learning **Next.js** <br>
+⚡ In my free time I play piano and sing.
 
 ###
 
@@ -52,12 +45,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   Connect Links :</h3>
 
 ###
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=dominikloza&theme=darcula&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/dominik-loza/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
