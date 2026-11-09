@@ -4,9 +4,7 @@
 </picture>
 
 I build interfaces in React and Next.js, currently as a frontend developer at
-[Modvise](https://modvise.com/about-us/). Lately I spend my evenings on the parts of frontend
-that are easy to skip: what the user sees when a request fails, how a screen reader hears a drag
-and drop, what an empty screen says.
+[Modvise](https://modvise.com/about-us/). Most of my work is turning designs into fast, accessible interfaces. Huntboard is the project where I took one idea all the way from a blank repo to production.
 
 ### Latest: [Huntboard](https://github.com/dominikloza/huntboard)
 
